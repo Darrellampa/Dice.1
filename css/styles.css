@@ -1,0 +1,67 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  .act2 {
+  
+    text-align: center;
+    display: inline-block;
+  }
+  img {
+    width: 30%;
+    display: flex;
+
+    margin-left: 34%;
+
+
+  
+
+  }
+  body {
+    background-color: rgb(14, 172, 151);
+    
+  }
+  h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 100px;
+    color: white;
+  }
+  .p1{
+  
+    color: #fff;
+  }
+  
+  .p2{
+  
+  color: #fff;
+  
+  }
+  footer {
+  
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+  
+  }
+  
+  #button {
+  
+    background-color: transparent;
+    border-color: #7f16ff;
+    cursor: pointer;
+    overflow: hidden;
+    padding: 20px;
+    width: 200px;
+  
+  }
+  
+  
+  .click-me {
+  
+    margin-top: 100px;
+    color: black;
+  
+  }
+  
